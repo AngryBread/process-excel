@@ -27,3 +27,6 @@ python avg_duration.py -- --help
 ```shell script
 python avg_duration.py tmp new
 ```
+
+### Test for pull request
+That's it
